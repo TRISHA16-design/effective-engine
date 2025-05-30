@@ -29,7 +29,7 @@ Steps:
 Clone the repository (or create your local project folder with these files):
 
 # If you've pushed to GitHub:
-# git clone [https://github.com/TRISHA16-design/hello-world.git](https://github.com/TRISHA16-design/hello-world.git)
+# git clone (https://github.com/TRISHA16-design/effective-engine)
 # cd hello-world
 Create a virtual environment (recommended):
 
